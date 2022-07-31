@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AutomationTests/.vs/ProjectEvaluation
+/AutomationTests/.vs/AutomationTests/DesignTimeBuild/.dtbcache.v2
+/AutomationTests/.vs/AutomationTests/FileContentIndex/2a813bfb-246b-43bb-8998-a6a47e38c474.vsidx
+/AutomationTests/.vs/AutomationTests/v17/TestStore/0/002.testlog
+/AutomationTests/.vs/AutomationTests/v17/.futdcache.v1
