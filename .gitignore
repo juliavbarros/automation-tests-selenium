@@ -7,3 +7,43 @@
 /AutomationTests/.vs/AutomationTests/FileContentIndex/2a813bfb-246b-43bb-8998-a6a47e38c474.vsidx
 /AutomationTests/.vs/AutomationTests/v17/TestStore/0/002.testlog
 /AutomationTests/.vs/AutomationTests/v17/.futdcache.v1
+/AutomationTests/01 - Unit Test/Demo/bin/Debug/netcoreapp2.2
+/AutomationTests/01 - Unit Test/Demo/obj/Debug/netcoreapp2.2
+/AutomationTests/01 - Unit Test/Demo/obj
+/AutomationTests/01 - Unit Test/Demo.Tests/bin/Debug/netcoreapp2.2
+/AutomationTests/01 - Unit Test/Demo.Tests/obj/Debug/netcoreapp2.2
+/AutomationTests/01 - Unit Test/Demo.Tests/obj
+/AutomationTests/01 - Unit Test/Features/bin/Debug/netcoreapp2.2
+/AutomationTests/01 - Unit Test/Features/obj/Debug/netcoreapp2.2
+/AutomationTests/01 - Unit Test/Features/obj
+/AutomationTests/01 - Unit Test/Features.Tests/bin/Debug/netcoreapp2.2
+/AutomationTests/01 - Unit Test/Features.Tests/obj/Debug/netcoreapp2.2
+/AutomationTests/01 - Unit Test/Features.Tests/obj
+/AutomationTests/02 - TDD/src/NerdStore.Core/bin/Debug/netcoreapp2.2
+/AutomationTests/02 - TDD/src/NerdStore.Core/obj
+/AutomationTests/02 - TDD/src/NerdStore.Vendas.Application
+/AutomationTests/02 - TDD/src/NerdStore.Vendas.Data
+/AutomationTests/02 - TDD/src/NerdStore.Vendas.Domain/bin/Debug/netcoreapp2.2
+/AutomationTests/02 - TDD/src/NerdStore.Vendas.Domain/obj/Debug/netcoreapp2.2
+/AutomationTests/02 - TDD/src/NerdStore.Vendas.Domain/obj
+/AutomationTests/02 - TDD/tests/NerdStore.Vendas.Application.Tests/bin/Debug/netcoreapp2.2
+/AutomationTests/02 - TDD/tests/NerdStore.Vendas.Application.Tests/obj/Debug/netcoreapp2.2
+/AutomationTests/02 - TDD/tests/NerdStore.Vendas.Application.Tests/obj
+/AutomationTests/02 - TDD/tests/NerdStore.Vendas.Domain.Tests/bin/Debug/netcoreapp2.2
+/AutomationTests/02 - TDD/tests/NerdStore.Vendas.Domain.Tests/obj/Debug/netcoreapp2.2
+/AutomationTests/02 - TDD/tests/NerdStore.Vendas.Domain.Tests/obj
+/AutomationTests/03 - Integration Test/src/NerdStore.Catalogo.Application
+/AutomationTests/03 - Integration Test/src/NerdStore.Catalogo.Data
+/AutomationTests/03 - Integration Test/src/NerdStore.Catalogo.Domain
+/AutomationTests/03 - Integration Test/src/NerdStore.WebApp.MVC/bin/Debug/netcoreapp2.2
+/AutomationTests/03 - Integration Test/src/NerdStore.WebApp.MVC/obj/Debug/netcoreapp2.2
+/AutomationTests/03 - Integration Test/src/NerdStore.WebApp.MVC/obj
+/AutomationTests/03 - Integration Test/tests/NerdStore.Catalogo.Domain.Tests/bin/Debug/netcoreapp3.1
+/AutomationTests/03 - Integration Test/tests/NerdStore.Catalogo.Domain.Tests/obj/Debug/netcoreapp3.1
+/AutomationTests/03 - Integration Test/tests/NerdStore.Catalogo.Domain.Tests/obj
+/AutomationTests/03 - Integration Test/tests/NerdStore.WebApp.Tests/bin/Debug/netcoreapp2.2
+/AutomationTests/03 - Integration Test/tests/NerdStore.WebApp.Tests/obj/Debug/netcoreapp2.2
+/AutomationTests/03 - Integration Test/tests/NerdStore.WebApp.Tests/obj
+/AutomationTests/04 - BDD/tests/NerdStore.BDD.Tests/bin/Debug/netcoreapp2.2
+/AutomationTests/04 - BDD/tests/NerdStore.BDD.Tests/obj/Debug/netcoreapp2.2
+/AutomationTests/04 - BDD/tests/NerdStore.BDD.Tests/obj
