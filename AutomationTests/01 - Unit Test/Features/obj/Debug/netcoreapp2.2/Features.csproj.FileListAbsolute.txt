@@ -1,0 +1,30 @@
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.deps.json
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.AssemblyReference.cache
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfoInputs.cache
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfo.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.CoreCompileInputs.cache
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.deps.json
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.AssemblyReference.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfoInputs.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfo.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.CoreCompileInputs.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\01 - Unit Test\Features\bin\Debug\netcoreapp2.2\Features.deps.json
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\01 - Unit Test\Features\bin\Debug\netcoreapp2.2\Features.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\01 - Unit Test\Features\bin\Debug\netcoreapp2.2\Features.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\01 - Unit Test\Features\obj\Debug\netcoreapp2.2\Features.csproj.AssemblyReference.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\01 - Unit Test\Features\obj\Debug\netcoreapp2.2\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\01 - Unit Test\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfoInputs.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\01 - Unit Test\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfo.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\01 - Unit Test\Features\obj\Debug\netcoreapp2.2\Features.csproj.CoreCompileInputs.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\01 - Unit Test\Features\obj\Debug\netcoreapp2.2\Features.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\01 - Unit Test\Features\obj\Debug\netcoreapp2.2\Features.pdb

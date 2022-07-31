@@ -1,0 +1,171 @@
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\appsettings.Testing.json
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.deps.json
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.runtimeconfig.json
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.runtimeconfig.dev.json
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.Views.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.Views.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Data.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Data.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.csproj.AssemblyReference.cache
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.AssemblyInfoInputs.cache
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.AssemblyInfo.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorAssemblyInfo.cache
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorAssemblyInfo.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.TagHelpers.input.cache
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.TagHelpers.output.cache
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorCoreGenerate.cache
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\ResumoDaCompra.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Vitrine\Index.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Vitrine\ProdutoDetalhe.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.Views.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.csproj.CopyComplete
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.dll
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.pdb
+C:\Users\Denis-PC\Downloads\desenvolvedor.io-dominando-testes-de-software-master\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.genruntimeconfig.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\appsettings.Testing.json
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.deps.json
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.runtimeconfig.json
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.runtimeconfig.dev.json
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.Views.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.Views.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Data.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Data.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.csproj.AssemblyReference.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.AssemblyInfoInputs.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.AssemblyInfo.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorAssemblyInfo.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorAssemblyInfo.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.TagHelpers.input.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.TagHelpers.output.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorCoreGenerate.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\ResumoDaCompra.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Vitrine\Index.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Vitrine\ProdutoDetalhe.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorTargetAssemblyInfo.cache
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorTargetAssemblyInfo.cs
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.Views.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.csproj.CopyComplete
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.dll
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.pdb
+C:\Users\User01\Pictures\Testes\DominandoTestesSofwate\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.genruntimeconfig.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\appsettings.Testing.json
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.deps.json
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.runtimeconfig.json
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.runtimeconfig.dev.json
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.Views.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.Views.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Data.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Data.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.csproj.AssemblyReference.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.AssemblyInfoInputs.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.AssemblyInfo.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorAssemblyInfo.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorAssemblyInfo.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.TagHelpers.input.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.TagHelpers.output.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorCoreGenerate.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\ResumoDaCompra.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Vitrine\Index.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Vitrine\ProdutoDetalhe.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorTargetAssemblyInfo.cache
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.RazorTargetAssemblyInfo.cs
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.Views.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.csproj.CopyComplete
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.dll
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\automation-tests-selenium\AutomationTests\03 - Integration Test\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\NerdStore.WebApp.MVC.genruntimeconfig.cache

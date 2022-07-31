@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User01\\OneDrive\\Área de Trabalho\\automation-tests-selenium\\AutomationTests\\01 - Unit Test\\Demo.Tests\\Demo.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User01\\OneDrive\\Área de Trabalho\\automation-tests-selenium\\AutomationTests\\01 - Unit Test\\Demo.Tests\\Demo.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User01\\OneDrive\\Área de Trabalho\\automation-tests-selenium\\AutomationTests\\01 - Unit Test\\Demo.Tests\\Demo.Tests.csproj",
+        "projectName": "Demo.Tests",
+        "projectPath": "C:\\Users\\User01\\OneDrive\\Área de Trabalho\\automation-tests-selenium\\AutomationTests\\01 - Unit Test\\Demo.Tests\\Demo.Tests.csproj",
+        "packagesPath": "C:\\Users\\User01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User01\\OneDrive\\Área de Trabalho\\automation-tests-selenium\\AutomationTests\\01 - Unit Test\\Demo.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\User01\\OneDrive\\Área de Trabalho\\automation-tests-selenium\\AutomationTests\\01 - Unit Test\\Demo\\Demo.csproj": {
+                "projectPath": "C:\\Users\\User01\\OneDrive\\Área de Trabalho\\automation-tests-selenium\\AutomationTests\\01 - Unit Test\\Demo\\Demo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User01\\OneDrive\\Área de Trabalho\\automation-tests-selenium\\AutomationTests\\01 - Unit Test\\Demo\\Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User01\\OneDrive\\Área de Trabalho\\automation-tests-selenium\\AutomationTests\\01 - Unit Test\\Demo\\Demo.csproj",
+        "projectName": "Demo",
+        "projectPath": "C:\\Users\\User01\\OneDrive\\Área de Trabalho\\automation-tests-selenium\\AutomationTests\\01 - Unit Test\\Demo\\Demo.csproj",
+        "packagesPath": "C:\\Users\\User01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User01\\OneDrive\\Área de Trabalho\\automation-tests-selenium\\AutomationTests\\01 - Unit Test\\Demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
