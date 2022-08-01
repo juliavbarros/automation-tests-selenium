@@ -27,7 +27,7 @@ namespace NerdStore.WebApp.Tests
         public async Task AdicionarItem_NovoPedido_DeveAtualizarValorTotal()
         {
             // Arrange
-            var produtoId = new Guid("e83bde8d-7205-4c58-b491-51f153e1cf83");
+            var produtoId = new Guid("f56a983f-ebdc-4de5-98c1-f1af3bdcf565");
             const int quantidade = 2;
 
             var initialResponse = await _testsFixture.Client.GetAsync($"/produto-detalhe/{produtoId}");
@@ -69,7 +69,7 @@ namespace NerdStore.WebApp.Tests
         public async Task AtualizarItem_PedidoExistente_DeveRetornarComSucesso()
         {
             // Arrange
-            var produtoId = new Guid("e83bde8d-7205-4c58-b491-51f153e1cf83");
+            var produtoId = new Guid("f56a983f-ebdc-4de5-98c1-f1af3bdcf565");
             const int quantidade = 3;
 
             var formData = new Dictionary<string, string>
@@ -103,7 +103,7 @@ namespace NerdStore.WebApp.Tests
             {
                 { "Id", produtoId.ToString() }
             };
-
+            
             await _testsFixture.RealizarLoginWeb();
 
             var postRequest = new HttpRequestMessage(HttpMethod.Post, "/remover-item")

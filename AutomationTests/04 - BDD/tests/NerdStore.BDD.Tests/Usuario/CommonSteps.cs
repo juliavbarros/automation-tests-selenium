@@ -1,5 +1,4 @@
 ﻿using NerdStore.BDD.Tests.Config;
-using NerdStore.BDD.Tests.Pedido;
 using TechTalk.SpecFlow;
 using Xunit;
 

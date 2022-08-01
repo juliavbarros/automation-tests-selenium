@@ -28,7 +28,7 @@ namespace NerdStore.WebApp.Tests
             // Arrange
             var itemInfo = new ItemViewModel
             {
-                Id = new Guid("e83bde8d-7205-4c58-b491-51f153e1cf82"),
+                Id = new Guid("f56a983f-ebdc-4de5-98c1-f1af3bdcf565"),
                 Quantidade = 2
             };
 
@@ -62,7 +62,7 @@ namespace NerdStore.WebApp.Tests
         public async Task AtualizarItem_PedidoExistente_DeveRetornarComSucesso()
         {
             // Arrange
-            var produtoId = new Guid("e83bde8d-7205-4c58-b491-51f153e1cf82");
+            var produtoId = new Guid("f56a983f-ebdc-4de5-98c1-f1af3bdcf565");
             await _testsFixture.RealizarLoginApi();
             _testsFixture.Client.AtribuirToken(_testsFixture.UsuarioToken);
 
@@ -79,12 +79,12 @@ namespace NerdStore.WebApp.Tests
             putResponse.EnsureSuccessStatusCode();
         }
 
-        [Fact(DisplayName = "Remover item em pedido existente"), TestPriority(8)]
+        [Fact(DisplayName = "Remover item em pedido existente"), TestPriority(3)]
         [Trait("Categoria", "Integração API - Pedido")]
         public async Task RemoverItem_PedidoExistente_DeveRetornarComSucesso()
         {
             // Arrange
-            var produtoId = new Guid("e83bde8d-7205-4c58-b491-51f153e1cf82");
+            var produtoId = new Guid("f56a983f-ebdc-4de5-98c1-f1af3bdcf565");
             await _testsFixture.RealizarLoginApi();
             _testsFixture.Client.AtribuirToken(_testsFixture.UsuarioToken);
 

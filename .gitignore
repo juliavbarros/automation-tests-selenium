@@ -50,3 +50,5 @@
 /AutomationTests/04 - BDD/tests/NerdStore.BDD.Tests/bin/Debug/netcoreapp2.2
 /AutomationTests/04 - BDD/tests/NerdStore.BDD.Tests/obj/Debug/netcoreapp2.2
 /AutomationTests/04 - BDD/tests/NerdStore.BDD.Tests/obj
+/AutomationTests/02 - TDD/src/NerdStore.Vendas.Domain/.vs/ProjectEvaluation
+/AutomationTests/02 - TDD/src/NerdStore.Vendas.Domain/.vs/NerdStore.Vendas.Domain/v17
