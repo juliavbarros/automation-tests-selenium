@@ -6,20 +6,35 @@ using Xunit;
 namespace NerdStore.BDD.Tests.Pedido
 {
     [Binding]
+    [CollectionDefinition(nameof(AutomacaoWebFixtureCollection))]
     public class Pedido_AdicionarItemAoCarrinhoStepDefinitions
-    {
-        //[Fact]
+    { 
+        private readonly AutomacaoWebTestsFixture _testsFixture;
+        private readonly PedidoTela _pedidoTela;
+
+        private string _urlProduto;
+
+        public Pedido_AdicionarItemAoCarrinhoStepDefinitions(AutomacaoWebTestsFixture testsFixture)
+        {
+            _testsFixture = testsFixture;
+            _pedidoTela = new PedidoTela(testsFixture.BrowserHelper);
+
+        
+        }
+
         [Given(@"Que um produto esteja na vitrine")]
         public void GivenQueUmProdutoEstejaNaVitrine()
         {
             //Arrange
-            //var browser = new SeleniumHelper(browser.Chrome, new ConfigurationHelper(), false);
-            //browser.IrParaUrl("https://desenvolvedor.io");
-            //browser.ClicarLinkTexto("Entrar");
+            _pedidoTela.AcessarVitrineDeProdutos();
 
             //Act
+            _pedidoTela.ObterDetalhesDoProduto();
+            _urlProduto = _pedidoTela.ObterUrl();
 
-            //Arrange
+            //Assert
+            Assert.True(_pedidoTela.ValidarProdutoDisponivel());           
+
 
         }
 
