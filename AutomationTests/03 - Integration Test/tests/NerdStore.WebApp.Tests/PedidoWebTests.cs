@@ -97,7 +97,7 @@ namespace NerdStore.WebApp.Tests
         public async Task RemoverItem_PedidoExistente_DeveRetornarComSucesso()
         {
             // Arrange
-            var produtoId = new Guid("e83bde8d-7205-4c58-b491-51f153e1cf83");
+            var produtoId = new Guid("f56a983f-ebdc-4de5-98c1-f1af3bdcf565");
 
             var formData = new Dictionary<string, string>
             {
