@@ -13,7 +13,7 @@ namespace Demo.Tests
             // Assert
             Assert.False(string.IsNullOrEmpty(funcionario.Nome));
         }
-        
+
         [Fact]
         public void Funcionario_Apelido_NaoDeveTerApelido()
         {

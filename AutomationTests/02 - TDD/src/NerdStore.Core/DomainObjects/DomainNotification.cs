@@ -1,6 +1,6 @@
-﻿using System;
-using MediatR;
+﻿using MediatR;
 using NerdStore.Core.Messages;
+using System;
 
 namespace NerdStore.Core.DomainObjects
 {

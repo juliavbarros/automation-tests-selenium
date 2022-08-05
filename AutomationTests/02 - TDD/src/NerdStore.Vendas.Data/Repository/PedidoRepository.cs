@@ -51,7 +51,6 @@ namespace NerdStore.Vendas.Data.Repository
             _context.Pedidos.Update(pedido);
         }
 
-
         public async Task<PedidoItem> ObterItemPorPedido(Guid pedidoId, Guid produtoId)
         {
             return await _context.PedidoItems.FirstOrDefaultAsync(p => p.ProdutoId == produtoId && p.PedidoId == pedidoId);

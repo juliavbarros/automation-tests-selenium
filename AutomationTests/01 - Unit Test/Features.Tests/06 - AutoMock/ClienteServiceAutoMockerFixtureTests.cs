@@ -1,7 +1,6 @@
 ﻿using Features.Clientes;
 using MediatR;
 using Moq;
-using Moq.AutoMock;
 using System.Linq;
 using System.Threading;
 using Xunit;

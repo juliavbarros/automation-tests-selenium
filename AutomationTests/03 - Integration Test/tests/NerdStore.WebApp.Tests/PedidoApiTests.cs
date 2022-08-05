@@ -2,7 +2,6 @@
 using NerdStore.WebApp.MVC;
 using NerdStore.WebApp.MVC.Models;
 using NerdStore.WebApp.Tests.Config;
-using Newtonsoft.Json;
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;

@@ -1,5 +1,4 @@
-﻿using Bogus;
-using Features.Tests;
+﻿using Features.Tests;
 using NerdStore.WebApp.MVC;
 using NerdStore.WebApp.Tests.Config;
 using System.Collections.Generic;
@@ -22,7 +21,6 @@ namespace NerdStore.WebApp.Tests
 
         [Fact(DisplayName = "Realizar cadastro com sucesso"), TestPriority(1)]
         [Trait("Categoria", "Integração Web - Usuário")]
-
         public async Task Usuario_RealizarCadastro_DeveExecutarComSucesso()
         {
             //Arrange
@@ -59,7 +57,6 @@ namespace NerdStore.WebApp.Tests
 
         [Fact(DisplayName = "Realizar cadastro com Senha Fraca"), TestPriority(1)]
         [Trait("Categoria", "Integração Web - Usuário")]
-
         public async Task Usuario_RealizarCadastroComSenhaFraca_DeveRetornarMensagemDeErro()
         {
             // Arrange
@@ -100,7 +97,6 @@ namespace NerdStore.WebApp.Tests
         [Trait("Categoria", "Integração Web - Usuário")]
         public async Task Usuario_RealizarLogin_DeveExecutarComSucesso()
         {
-
             //Arrange
             var initialResponse = await _testsFixture.Client.GetAsync("/Identity/Account/Login");
             initialResponse.EnsureSuccessStatusCode();
@@ -112,7 +108,7 @@ namespace NerdStore.WebApp.Tests
                 {_testsFixture.AntiForgeryFieldName, antiForgeryToken },
                 {"Input.Email", _testsFixture.UsuarioEmail },
                 {"Input.Password", _testsFixture.UsuarioSenha },
-                {"Input.ConfirmPassword",_testsFixture.UsuarioSenha },                
+                {"Input.ConfirmPassword",_testsFixture.UsuarioSenha },
             };
 
             var postRequest = new HttpRequestMessage(HttpMethod.Post, "/Identity/Account/Login")
@@ -125,11 +121,10 @@ namespace NerdStore.WebApp.Tests
 
             // Assert
 
-            var responseString= await postResponse.Content.ReadAsStringAsync();
+            var responseString = await postResponse.Content.ReadAsStringAsync();
 
             postResponse.EnsureSuccessStatusCode();
             Assert.Contains($"Hello {_testsFixture.UsuarioEmail}", responseString);
         }
-
     }
 }

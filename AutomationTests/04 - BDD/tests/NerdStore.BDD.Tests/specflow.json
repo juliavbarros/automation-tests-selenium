@@ -1,10 +1,8 @@
 ﻿{
-    "bindingCulture":
-    {
-        "language" :"pt-br"
-    },
-    "language":
-    {
-        "feature": "pt-br"
-    }
+  "bindingCulture": {
+    "language": "pt-br"
+  },
+  "language": {
+    "feature": "pt-br"
+  }
 }

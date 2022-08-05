@@ -1,11 +1,11 @@
-﻿using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
-using MediatR;
+﻿using MediatR;
 using NerdStore.Core.Messages;
 using NerdStore.Core.Messages.CommonMessages.Notifications;
 using NerdStore.Vendas.Application.Events;
 using NerdStore.Vendas.Domain;
+using System.Linq;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace NerdStore.Vendas.Application.Commands
 {
@@ -55,7 +55,7 @@ namespace NerdStore.Vendas.Application.Commands
 
                 _pedidoRepository.Atualizar(pedido);
             }
-            
+
             pedido.AdicionarEvento(new PedidoItemAdicionadoEvent(pedido.ClienteId, pedido.Id, message.ProdutoId, message.Nome, message.ValorUnitario, message.Quantidade));
             return await _pedidoRepository.UnitOfWork.Commit();
         }

@@ -8,7 +8,7 @@ namespace Features.Tests
     public class ClienteFluentAssertionsTests
     {
         private readonly ClienteBogusFixture _clienteBogusFixture;
-        readonly ITestOutputHelper _outputHelper;
+        private readonly ITestOutputHelper _outputHelper;
 
         public ClienteFluentAssertionsTests(ClienteBogusFixture clienteBogusFixture, ITestOutputHelper outputHelper)
         {

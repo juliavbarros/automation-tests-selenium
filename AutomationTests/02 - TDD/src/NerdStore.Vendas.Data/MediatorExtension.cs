@@ -1,7 +1,7 @@
-﻿using System.Linq;
-using System.Threading.Tasks;
-using MediatR;
+﻿using MediatR;
 using NerdStore.Core.DomainObjects;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace NerdStore.Vendas.Data
 {
@@ -21,7 +21,8 @@ namespace NerdStore.Vendas.Data
                 .ForEach(entity => entity.Entity.LimparEventos());
 
             var tasks = domainEvents
-                .Select(async (domainEvent) => {
+                .Select(async (domainEvent) =>
+                {
                     await mediator.Publish(domainEvent);
                 });
 

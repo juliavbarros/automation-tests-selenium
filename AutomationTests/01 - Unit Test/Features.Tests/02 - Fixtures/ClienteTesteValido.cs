@@ -5,7 +5,7 @@ namespace Features.Tests
     [Collection(nameof(ClienteCollection))]
     public class ClienteTesteValido
     {
-        readonly ClienteTestsFixture _clienteTestsFixture;
+        private readonly ClienteTestsFixture _clienteTestsFixture;
 
         public ClienteTesteValido(ClienteTestsFixture clienteTestsFixture)
         {

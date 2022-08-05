@@ -1,9 +1,9 @@
-﻿using System;
-using System.Security.Claims;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using NerdStore.Vendas.Application.Queries;
+using System;
+using System.Security.Claims;
+using System.Threading.Tasks;
 
 namespace NerdStore.WebApp.MVC.Extensions
 {
@@ -13,7 +13,6 @@ namespace NerdStore.WebApp.MVC.Extensions
 
         // TODO: Obter cliente logado
         protected Guid ClienteId;
-
 
         public CartViewComponent(IPedidoQueries pedidoQueries, IHttpContextAccessor httpContextAccessor)
         {

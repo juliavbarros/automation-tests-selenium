@@ -4,8 +4,10 @@ namespace NerdStore.BDD.Tests.Usuario
 {
     public class CadastroDeUsuarioTela : BaseUsuarioTela
     {
-        public CadastroDeUsuarioTela(SeleniumHelper helper) : base(helper) { }
-    
+        public CadastroDeUsuarioTela(SeleniumHelper helper) : base(helper)
+        {
+        }
+
         public void ClicarNoLinkRegistrar()
         {
             Helper.ClicarLinkPorTexto("Register");

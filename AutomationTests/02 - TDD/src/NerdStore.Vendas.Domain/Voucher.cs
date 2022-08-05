@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using FluentValidation;
+﻿using FluentValidation;
 using FluentValidation.Results;
 using NerdStore.Core.DomainObjects;
+using System;
+using System.Collections.Generic;
 
 namespace NerdStore.Vendas.Domain
 {
@@ -48,7 +48,6 @@ namespace NerdStore.Vendas.Domain
         public static string QuantidadeErroMsg => "Este voucher não está mais disponível";
         public static string ValorDescontoErroMsg => "O valor do desconto precisa ser superior a 0";
         public static string PercentualDescontoErroMsg => "O valor da porcentagem de desconto precisa ser superior a 0";
-
 
         public VoucherAplicavelValidation()
         {

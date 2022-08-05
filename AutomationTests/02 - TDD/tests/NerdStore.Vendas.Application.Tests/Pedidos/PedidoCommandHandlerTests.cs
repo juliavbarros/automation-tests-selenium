@@ -52,7 +52,7 @@ namespace NerdStore.Vendas.Application.Tests.Pedidos
             _mocker.GetMock<IPedidoRepository>().Verify(r => r.Adicionar(It.IsAny<Pedido>()), Times.Once);
             _mocker.GetMock<IPedidoRepository>().Verify(r => r.UnitOfWork.Commit(), Times.Once);
         }
-    
+
         [Fact(DisplayName = "Adicionar Novo Item Pedido Rascunho com Sucesso")]
         [Trait("Categoria", "Vendas - Pedido Command Handler")]
         public async Task AdicionarItem_NovoItemAoPedidoRascunho_DeveExecutarComSucesso()
@@ -86,7 +86,7 @@ namespace NerdStore.Vendas.Application.Tests.Pedidos
             _mocker.GetMock<IPedidoRepository>().Verify(r => r.Atualizar(It.IsAny<Pedido>()), Times.Once);
             _mocker.GetMock<IPedidoRepository>().Verify(r => r.UnitOfWork.Commit(), Times.Once);
         }
-    
+
         [Fact(DisplayName = "Adicionar Item Existente ao Pedido Rascunho com Sucesso")]
         [Trait("Categoria", "Vendas - Pedido Command Handler")]
         public async Task AdicionarItem_ItemExistenteAoPedidoRascunho_DeveExecutarComSucesso()
@@ -120,7 +120,7 @@ namespace NerdStore.Vendas.Application.Tests.Pedidos
             _mocker.GetMock<IPedidoRepository>().Verify(r => r.Atualizar(It.IsAny<Pedido>()), Times.Once);
             _mocker.GetMock<IPedidoRepository>().Verify(r => r.UnitOfWork.Commit(), Times.Once);
         }
-    
+
         [Fact(DisplayName = "Adicionar Item Command Inválido")]
         [Trait("Categoria", "Vendas - Pedido Command Handler")]
         public async Task AdicionarItem_CommandInvalido_DeveRetornarFalsoELancarEventosDeNotificacao()

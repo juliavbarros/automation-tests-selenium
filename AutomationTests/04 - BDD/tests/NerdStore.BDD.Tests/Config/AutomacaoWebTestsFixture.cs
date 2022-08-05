@@ -4,7 +4,8 @@ using Xunit;
 namespace NerdStore.BDD.Tests.Config
 {
     [CollectionDefinition(nameof(AutomacaoWebTestsFixture))]
-    public class AutomacaoWebFixtureCollection : ICollectionFixture<AutomacaoWebTestsFixture> { }
+    public class AutomacaoWebFixtureCollection : ICollectionFixture<AutomacaoWebTestsFixture>
+    { }
 
     public class AutomacaoWebTestsFixture
     {

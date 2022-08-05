@@ -1,8 +1,8 @@
-﻿using System;
+﻿using FluentValidation.Results;
+using NerdStore.Core.DomainObjects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using FluentValidation.Results;
-using NerdStore.Core.DomainObjects;
 
 namespace NerdStore.Vendas.Domain
 {
@@ -10,6 +10,7 @@ namespace NerdStore.Vendas.Domain
     {
         // ReSharper disable once InconsistentNaming
         public static int MAX_UNIDADES_ITEM => 15;
+
         public static int MIN_UNIDADES_ITEM => 1;
 
         public int Codigo { get; private set; }

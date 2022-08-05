@@ -1,5 +1,5 @@
-﻿using System;
-using NerdStore.Core.DomainObjects;
+﻿using NerdStore.Core.DomainObjects;
+using System;
 
 namespace NerdStore.Vendas.Domain
 {
@@ -23,7 +23,9 @@ namespace NerdStore.Vendas.Domain
             Quantidade = quantidade;
             ValorUnitario = valorUnitario;
         }
-        protected PedidoItem() { }
+
+        protected PedidoItem()
+        { }
 
         internal void AssociarPedido(Guid pedidoId)
         {

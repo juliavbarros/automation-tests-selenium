@@ -12,7 +12,6 @@ namespace Features.Tests
     [CollectionDefinition(nameof(ClienteAutoMockerCollection))]
     public class ClienteAutoMockerCollection : ICollectionFixture<ClienteTestsAutoMockerFixture>
     {
-
     }
 
     public class ClienteTestsAutoMockerFixture : IDisposable
@@ -79,7 +78,6 @@ namespace Features.Tests
 
         public void Dispose()
         {
-
         }
     }
 }

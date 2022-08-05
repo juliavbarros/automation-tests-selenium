@@ -11,7 +11,6 @@ namespace Features.Tests
     [CollectionDefinition(nameof(ClienteBogusCollection))]
     public class ClienteBogusCollection : ICollectionFixture<ClienteBogusFixture>
     {
-
     }
 
     public class ClienteBogusFixture : IDisposable
@@ -67,7 +66,6 @@ namespace Features.Tests
 
         public void Dispose()
         {
-
         }
     }
 }

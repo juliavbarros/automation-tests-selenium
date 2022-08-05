@@ -10,7 +10,6 @@ namespace NerdStore.Catalogo.Data.Mappings
         {
             builder.HasKey(c => c.Id);
 
-
             builder.Property(c => c.Desconto)
               .IsRequired()
               .HasColumnType("decimal");

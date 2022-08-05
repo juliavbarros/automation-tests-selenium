@@ -1,9 +1,4 @@
-﻿using System;
-using System.IdentityModel.Tokens.Jwt;
-using System.Security.Claims;
-using System.Text;
-using System.Threading.Tasks;
-using MediatR;
+﻿using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
@@ -15,6 +10,11 @@ using NerdStore.Core.Messages.CommonMessages.Notifications;
 using NerdStore.Vendas.Application.Commands;
 using NerdStore.Vendas.Application.Queries;
 using NerdStore.WebApp.MVC.Models;
+using System;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace NerdStore.WebApp.MVC.Controllers
 {
@@ -31,10 +31,10 @@ namespace NerdStore.WebApp.MVC.Controllers
 
         public CarrinhoControllerApi(INotificationHandler<DomainNotification> notifications,
                                   IProdutoAppService produtoAppService,
-                                  IMediator mediatorHandler, 
+                                  IMediator mediatorHandler,
                                   IPedidoQueries pedidoQueries,
-                                  IHttpContextAccessor httpContextAccessor, 
-                                  SignInManager<IdentityUser> signInManager, 
+                                  IHttpContextAccessor httpContextAccessor,
+                                  SignInManager<IdentityUser> signInManager,
                                   UserManager<IdentityUser> userManager,
                                   IOptions<AppSettings> appSettings) : base(notifications, mediatorHandler, httpContextAccessor)
         {
@@ -62,7 +62,7 @@ namespace NerdStore.WebApp.MVC.Controllers
 
             if (produto.QuantidadeEstoque < item.Quantidade)
             {
-                NotificarErro("ErroValidacao","Produto com estoque insuficiente");
+                NotificarErro("ErroValidacao", "Produto com estoque insuficiente");
             }
 
             var command = new AdicionarItemPedidoCommand(ClienteId, produto.Id, produto.Nome, item.Quantidade, produto.Valor);
@@ -93,7 +93,7 @@ namespace NerdStore.WebApp.MVC.Controllers
 
             var command = new RemoverItemPedidoCommand(ClienteId, id);
             await _mediatorHandler.Send(command);
-            
+
             return Response();
         }
 
@@ -108,7 +108,7 @@ namespace NerdStore.WebApp.MVC.Controllers
                 return Ok(await GerarJwt(login.Email));
             }
 
-            NotificarErro("login","Usuário ou Senha incorretos");
+            NotificarErro("login", "Usuário ou Senha incorretos");
             return Response();
         }
 

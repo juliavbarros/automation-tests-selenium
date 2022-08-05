@@ -23,7 +23,7 @@ namespace Demo.Tests
             // Assert
             Assert.Contains("OOP", funcionario.Habilidades);
         }
-        
+
         [Fact]
         public void Funcionario_Habilidades_JuniorNaoDevePossuirHabilidadeAvancada()
         {

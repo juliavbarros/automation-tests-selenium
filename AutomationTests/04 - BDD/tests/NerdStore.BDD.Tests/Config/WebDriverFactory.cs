@@ -20,6 +20,7 @@ namespace NerdStore.BDD.Tests.Config
                     webDriver = new FirefoxDriver(caminhoDriver, optionsFirefox);
 
                     break;
+
                 case Browser.Chrome:
                     var options = new ChromeOptions();
                     if (headless)

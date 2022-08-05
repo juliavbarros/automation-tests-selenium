@@ -47,6 +47,7 @@ namespace Demo
                 case NivelProfissional.Pleno:
                     Habilidades.Add("Testes");
                     break;
+
                 case NivelProfissional.Senior:
                     Habilidades.Add("Testes");
                     Habilidades.Add("Microservices");

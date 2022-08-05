@@ -7,7 +7,7 @@ namespace Features.Core
     {
         public Guid Id { get; protected set; }
         public ValidationResult ValidationResult { get; protected set; }
-    
+
         public virtual bool EhValido()
         {
             throw new NotImplementedException();

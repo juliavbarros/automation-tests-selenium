@@ -1,10 +1,10 @@
-﻿using System;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using NerdStore.Catalogo.Domain;
 using NerdStore.Core.Data;
 using NerdStore.Core.Messages;
+using System;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace NerdStore.Catalogo.Data
 {
@@ -41,7 +41,7 @@ namespace NerdStore.Catalogo.Data
                     entry.Property("DataCadastro").IsModified = false;
                 }
             }
-            
+
             return await base.SaveChangesAsync() > 0;
         }
     }

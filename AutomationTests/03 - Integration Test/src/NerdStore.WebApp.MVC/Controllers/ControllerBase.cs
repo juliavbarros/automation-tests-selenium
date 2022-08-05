@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Claims;
-using MediatR;
+﻿using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using NerdStore.Core.Messages.CommonMessages.Notifications;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Claims;
 
 namespace NerdStore.WebApp.MVC.Controllers
 {
@@ -17,7 +17,7 @@ namespace NerdStore.WebApp.MVC.Controllers
         protected Guid ClienteId;
 
         protected ControllerBase(INotificationHandler<DomainNotification> notifications,
-                                 IMediator mediatorHandler, 
+                                 IMediator mediatorHandler,
                                  IHttpContextAccessor httpContextAccessor)
         {
             _notifications = (DomainNotificationHandler)notifications;

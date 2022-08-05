@@ -1,12 +1,12 @@
-﻿using System;
+﻿using AngleSharp.Html.Parser;
+using Features.Tests;
+using NerdStore.WebApp.MVC;
+using NerdStore.WebApp.Tests.Config;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
-using AngleSharp.Html.Parser;
-using Features.Tests;
-using NerdStore.WebApp.MVC;
-using NerdStore.WebApp.Tests.Config;
 using Xunit;
 
 namespace NerdStore.WebApp.Tests
@@ -103,7 +103,7 @@ namespace NerdStore.WebApp.Tests
             {
                 { "Id", produtoId.ToString() }
             };
-            
+
             await _testsFixture.RealizarLoginWeb();
 
             var postRequest = new HttpRequestMessage(HttpMethod.Post, "/remover-item")

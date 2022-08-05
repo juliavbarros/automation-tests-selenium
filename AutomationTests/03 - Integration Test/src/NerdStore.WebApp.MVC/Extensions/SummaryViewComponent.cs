@@ -1,7 +1,7 @@
-﻿using System.Threading.Tasks;
-using MediatR;
+﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using NerdStore.Core.Messages.CommonMessages.Notifications;
+using System.Threading.Tasks;
 
 namespace NerdStore.WebApp.MVC.Extensions
 {

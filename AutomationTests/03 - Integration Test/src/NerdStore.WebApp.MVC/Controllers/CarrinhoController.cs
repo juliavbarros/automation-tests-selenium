@@ -1,6 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-using MediatR;
+﻿using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -8,6 +6,8 @@ using NerdStore.Catalogo.Application.Services;
 using NerdStore.Core.Messages.CommonMessages.Notifications;
 using NerdStore.Vendas.Application.Commands;
 using NerdStore.Vendas.Application.Queries;
+using System;
+using System.Threading.Tasks;
 
 namespace NerdStore.WebApp.MVC.Controllers
 {
@@ -20,7 +20,7 @@ namespace NerdStore.WebApp.MVC.Controllers
 
         public CarrinhoController(INotificationHandler<DomainNotification> notifications,
                                   IProdutoAppService produtoAppService,
-                                  IMediator mediatorHandler, 
+                                  IMediator mediatorHandler,
                                   IPedidoQueries pedidoQueries,
                                   IHttpContextAccessor httpContextAccessor) : base(notifications, mediatorHandler, httpContextAccessor)
         {
